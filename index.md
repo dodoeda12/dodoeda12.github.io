@@ -26,8 +26,8 @@
 			<h1>Name:</h1><h3>MasterCoder</h3>
 			<h1>Picture of Me:</h1>
 			<img src = "https://www.pandasecurity.com/mediacenter/src/uploads/2019/07/pandasecurity-How-do-hackers-pick-their-targets.jpg">
-			<a href="resume.html"><h4>Link to Resume</h4>
-			<a href="bio.html"><h4>Link to Biography</h4>
+			<a href="resume.html"><h4>Link to Resume</h4></a>
+			<a href="bio.html"><h4>Link to Biography</h4></a>
 		</div>
 	</body>
 			
